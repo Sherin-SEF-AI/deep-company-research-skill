@@ -7,6 +7,9 @@ Deep Company and Product Research is a high-depth intelligence skill designed to
 The output is a professionally formatted PDF report exceeding 20 pages, built entirely on verifiable sources. This skill is intended for due diligence, competitive intelligence, technical evaluation, and strategic decision-making.
 
 https://agentshare.io/skills/597b9dce-38d5-4f6a-ac7e-d944d4669ab2
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8eab82a6-1e5d-412f-ae8d-7d89d45ab058" />
+
 ---
 
 ## When to Use
